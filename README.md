@@ -1,4 +1,3 @@
-# analise-perfil-eleitor-vila-velha
 # 🗳️ Análise do Perfil do Eleitor – Município de Vila Velha
 
 Este projeto tem como objetivo analisar o **perfil dos eleitores do município de Vila Velha (ES)** utilizando os microdados públicos do Tribunal Superior Eleitoral (TSE). A análise inclui aspectos demográficos como idade, gênero, escolaridade, faixa etária e distribuição territorial dos eleitores.
