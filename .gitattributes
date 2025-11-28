@@ -1,3 +1,6 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
 base_vila_velha.csv filter=lfs diff=lfs merge=lfs -text
 perfil_eleitor_secao_2024_ES.csv filter=lfs diff=lfs merge=lfs -text
+=======
+>>>>>>> 0108cd2e5a8dfef1831b3194b408da2a47ef26e6
